@@ -9,7 +9,7 @@
 #ifndef JKUtilsProject_JKDefine_h
 #define JKUtilsProject_JKDefine_h
 
-#import "KKDColorDefine.h"
-#import "KKDToolsDefine.h"
+#import "JKColorDefine.h"
+#import "JKToolsDefine.h"
 
 #endif
